@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(to left, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.col-md-5{
+    margin-top: 200px !important;
+}
+
+h1{
+    font-weight: bolder !important;
+    text-align: center;
+    margin: 20px !important; 
+}
+
+input{
+    display: inline !important;
+    width: 85% !important;
+    border: 2px solid black !important;
+}
+
+button{
+    margin-left: 10px !important;
+}
+
+li{
+    display: inline;
+    font-size: 20px;
+    margin: 10px;
+}
+
+i{
+    color: red;
+}
+
+i:hover{
+    cursor: pointer;
+}
